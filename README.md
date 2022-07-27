@@ -1,3 +1,9 @@
+- parse sql
+- say if sql is valid or not 
+- display two tables
+- allow sign in to app 
+- allow users to save their query
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
